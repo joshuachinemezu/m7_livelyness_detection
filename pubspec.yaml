@@ -16,7 +16,7 @@ dependencies:
   equatable: ^2.0.5
   flutter:
     sdk: flutter
-  google_mlkit_face_detection: ^0.5.0
+  google_mlkit_face_detection: ^0.6.0
   image: ^3.0.2
   lottie: ^2.1.0
   plugin_platform_interface: ^2.0.2

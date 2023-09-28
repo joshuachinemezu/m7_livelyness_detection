@@ -5,7 +5,7 @@ PODS:
   - google_mlkit_commons (0.2.0):
     - Flutter
     - MLKitVision
-  - google_mlkit_face_detection (0.5.0):
+  - google_mlkit_face_detection (0.6.0):
     - Flutter
     - google_mlkit_commons
     - GoogleMLKit/FaceDetection (~> 3.2.0)
